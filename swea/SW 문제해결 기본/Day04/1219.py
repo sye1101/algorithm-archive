@@ -1,4 +1,4 @@
-# 1219. [S/W 문제해결 기본] 4일차 - 길찾기
+# 1219. [S/W 문제해결 기본] Day04 - 길찾기
 T = 10
 
 def dfs(data, start, visited):

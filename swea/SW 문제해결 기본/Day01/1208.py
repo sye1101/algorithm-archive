@@ -1,4 +1,4 @@
-# 1208. [S/W 문제해결 기본] 1일차 - Flatten
+# 1208. [S/W 문제해결 기본] Day01 - Flatten
 T = 10
 
 for test_case in range(1, T + 1):

@@ -1,4 +1,4 @@
-# 1215. [S/W 문제해결 기본] 3일차 - 회문1
+# 1215. [S/W 문제해결 기본] Day03 - 회문1
 T = 10
 def is_palindrome(s):
     return s == s[::-1]

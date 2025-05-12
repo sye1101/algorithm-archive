@@ -1,4 +1,4 @@
-# 1213. [S/W 문제해결 기본] 3일차 - String
+# 1213. [S/W 문제해결 기본] Day03 - String
 T = 10
 for test_case in range(1, T + 1):
     _ = input()

@@ -1,4 +1,4 @@
-# 1221. [S/W 문제해결 기본] 5일차 - GNS
+# 1221. [S/W 문제해결 기본] Day05 - GNS
 T = int(input())
 
 for test_case in range(1, T + 1):

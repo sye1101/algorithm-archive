@@ -1,4 +1,4 @@
-# 1224. [S/W 문제해결 기본] 6일차 - 계산기3
+# 1224. [S/W 문제해결 기본] Day06 - 계산기3
 T = 10
 for test_case in range(1, T + 1):
     n = int(input())

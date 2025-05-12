@@ -1,4 +1,4 @@
-# 1209. [S/W 문제해결 기본] 2일차 - Sum
+# 1209. [S/W 문제해결 기본] Day02 - Sum
 T = 10
 
 for test_case in range(1, T + 1):
